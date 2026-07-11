@@ -17,7 +17,7 @@ A full-stack MERN web application that helps users discover, browse, and manage 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js
@@ -56,7 +56,7 @@ QuickBite
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone Repository
 
